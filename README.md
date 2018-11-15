@@ -10,6 +10,6 @@ Feel free to clone and use any resource here provided and let us know if you hav
 
 Thank you.
 
-Dr. Walter Garcia
-Junior Resident, 
-Neurosurgery Department
+Dr. Walter Garcia.
+Junior Resident.
+Neurosurgery Department.
